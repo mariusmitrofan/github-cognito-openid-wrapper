@@ -5,6 +5,9 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/f787719be529b1c0e8ee/test_coverage)](https://codeclimate.com/github/TimothyJones/github-openid-wrapper/test_coverage)
 [![Known Vulnerabilities](https://snyk.io/test/github/TimothyJones/github-cognito-openid-wrapper/badge.svg?targetFile=package.json)](https://snyk.io/test/github/TimothyJones/github-cognito-openid-wrapper?targetFile=package.json)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Do you want to add GitHub as an OIDC (OpenID Connect) provider to an AWS Cognito User Pool? Have you run in to trouble because GitHub only provides OAuth2.0 endpoints, and doesn't support OpenID Connect?
 
@@ -313,3 +316,38 @@ twitter (or open an issue if you have any problems).
 ## License
 
 [BSD 3-Clause License](LICENSE)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/TimothyJones"><img src="https://avatars1.githubusercontent.com/u/914369?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Timothy Jones</b></sub></a><br /><a href="https://github.com/TimothyJones/github-cognito-openid-wrapper/commits?author=TimothyJones" title="Code">💻</a> <a href="https://github.com/TimothyJones/github-cognito-openid-wrapper/commits?author=TimothyJones" title="Documentation">📖</a> <a href="#maintenance-TimothyJones" title="Maintenance">🚧</a> <a href="#question-TimothyJones" title="Answering Questions">💬</a> <a href="#infra-TimothyJones" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/bethesque"><img src="https://avatars1.githubusercontent.com/u/446228?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Beth Skurrie</b></sub></a><br /><a href="#ideas-bethesque" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/derjust"><img src="https://avatars0.githubusercontent.com/u/2053353?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sebastian J.</b></sub></a><br /><a href="https://github.com/TimothyJones/github-cognito-openid-wrapper/commits?author=derjust" title="Code">💻</a> <a href="#infra-derjust" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="http://dannydouglass.com/"><img src="https://avatars1.githubusercontent.com/u/266481?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Danny Douglass</b></sub></a><br /><a href="https://github.com/TimothyJones/github-cognito-openid-wrapper/commits?author=DannyDouglass" title="Code">💻</a></td>
+    <td align="center"><a href="https://bridgecrew.io/"><img src="https://avatars0.githubusercontent.com/u/23154756?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Livnoni</b></sub></a><br /><a href="https://github.com/TimothyJones/github-cognito-openid-wrapper/commits?author=livnoni" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/BFUculsion"><img src="https://avatars0.githubusercontent.com/u/36120475?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Benjamin Follis</b></sub></a><br /><a href="#infra-BFUculsion" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="http://youngbloods.org/"><img src="https://avatars3.githubusercontent.com/u/6947?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carl Youngblood</b></sub></a><br /><a href="#infra-cayblood" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://deh.li/"><img src="https://avatars0.githubusercontent.com/u/5856011?v=4?s=100" width="100px;" alt=""/><br /><sub><b>c.p.</b></sub></a><br /><a href="#infra-dehli" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="http://www.calldei.com/"><img src="https://avatars0.githubusercontent.com/u/286113?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David Lee</b></sub></a><br /><a href="#infra-DALDEI" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
